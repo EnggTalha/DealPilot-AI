@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/prices/
+data/alerts/
+data/reports/
+data/.browser_profile/
+logs/
+.DS_Store
